@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 <ol> --> ordered list
 <thead> --> heading of the table
 
+=======
+<ol> --> ordered list
+<thead> --> heading of the table
+
+>>>>>>> 883b873944c7cda75e62dbb13c31d8f97bb50cb5
